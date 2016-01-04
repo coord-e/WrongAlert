@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = WrongAlert;
+	cell = PSLinkCell;
+	detail = WrongAlertListController;
+	icon = WrongAlert.png;
+	isController = 1;
+	label = WrongAlert;
+    };
+}
