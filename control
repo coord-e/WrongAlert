@@ -1,9 +1,10 @@
 Package: com.coord-e.wrongalert
 Name: WrongAlert
 Depends: mobilesubstrate, preferenceloader
-Version: 0.1.1
+Version: 0.1.3
 Architecture: iphoneos-arm
-Description: View an custom alert when passcode is wrong.
+Description: Show a custom alert when passcode is wrong.
+Depiction: http://repo.coord-e.com/depictions.php?id=com.coord-e.wrongalert
 Maintainer: coord.e <coord.e@y-modify.org>
 Author: coord.e <coord.e@y-modify.org>
 Section: Tweaks

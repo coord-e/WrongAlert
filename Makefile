@@ -1,7 +1,6 @@
-PACKAGE_VERSION = $(THEOS_PACKAGE_BASE_VERSION)
 export ARCHS = armv7 armv7s arm64
 
-include theos/makefiles/common.mk
+include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = WrongAlert
 WrongAlert_FILES = Tweak.xm
